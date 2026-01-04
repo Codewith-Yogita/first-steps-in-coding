@@ -4,7 +4,7 @@ Welcome to my first GitHub repository! I'm Yogita, a BTech CSE student exploring
 ## 🚀 What’s Inside
 This repo contains:
 - My first coding projects
-- Practice files as I am learning C++, C, and Web Development
+- Practice files as I am learning C++,python, and Web Development
 - Notes and explanations to help me (and others!) understand the code
 
 ## 🌱 Why I Created This
@@ -16,8 +16,7 @@ I'm just starting my journey as a developer. This space is where I’ll:
 ## 📚 Technologies I'm Learning
 - Python 🐍
 - C++ ☕
-- C 🌐
-- DSA ⚡
+
 
 ## 📌 Connect with Me
 - GitHub: [Codewith-Yogita](https://github.com/Codewith-Yogita)
